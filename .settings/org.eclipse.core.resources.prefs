@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//patzilla/access/__init__.py=utf-8
+encoding//patzilla/access/cipo/drawing.py=utf-8
+encoding//patzilla/access/depatech/clientpool.py=utf-8
+encoding//patzilla/access/dpma/depatisnet.py=utf-8
+encoding//patzilla/access/dpma/dpmaregister.py=utf-8
+encoding//patzilla/access/epo/espacenet/client.py=utf-8
+encoding//patzilla/access/epo/ops/client.py=utf-8
+encoding//patzilla/access/google/search.py=utf-8
+encoding//patzilla/access/ificlaims/clientpool.py=utf-8
+encoding//patzilla/access/sip/clientpool.py=utf-8
+encoding//patzilla/access/uspto/image.py=utf-8
+encoding//patzilla/navigator/settings.py=utf-8
+encoding//patzilla/util/cql/pyparsing/__init__.py=utf-8
+encoding//patzilla/util/cql/pyparsing/searchparser.py=utf-8
+encoding//patzilla/util/crypto/jwt.py=utf-8
+encoding//patzilla/util/web/identity/store.py=utf-8
